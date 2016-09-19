@@ -11,7 +11,7 @@ Compiled releases are available from the [github release page](https://github.co
  
 ### Installation using SuperCollider 3.7.0
   - Download or clone this repository
-  - Copy the contents of the "HaringClasses" folder to your SuperCollider extensions folder.
+  - Copy the contents of the folder named "HaringClasses" to your SuperCollider extensions folder.
      You can find out what folder that is by evaluating:
     
     ```
