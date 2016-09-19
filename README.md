@@ -9,11 +9,10 @@ Compiled releases are available from the [github release page](https://github.co
   - Copy the file "H.A.R.I.N.G.app" to your Applications Folder
   - Run "H.A.R.I.N.G.app"
  
-### Installation using with SuperCollider 3.7.0
+### Installation using SuperCollider 3.7.0
   - Download or clone this repository
   - Copy the contents of the "HaringClasses" folder to your SuperCollider extensions folder.
-
-     You can find out which one that is by evaluating
+     You can find out what folder that is by evaluating:
     
     ```
     Platform.userExtensionDir
