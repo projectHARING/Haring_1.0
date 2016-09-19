@@ -25,6 +25,6 @@ Compiled releases are available from the [github release page](https://github.co
     Platform.systemExtensionDir
     ```
     
-  - Copy the content of "H.A.R.I.N.G" folder to your documents directory.
+  - Copy the content of "HaringApp" folder to your documents directory.
   - Open SuperCollider and execute the File "Haring.scd" 
 
