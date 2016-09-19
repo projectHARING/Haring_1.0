@@ -1,0 +1,5 @@
+echo "includePaths:
+    - overwrites
+    - SCClassLibrary
+postInlineWarnings: true" > langconf.yaml;
+./MacOS/sclang -a -l langconf.yaml init.scd

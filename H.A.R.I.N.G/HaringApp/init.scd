@@ -1,0 +1,5 @@
+(
+p = "".resolveRelative;
+AutomataLoader(p)
+)
+
