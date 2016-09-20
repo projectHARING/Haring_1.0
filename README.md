@@ -1,5 +1,8 @@
 # H.A.R.I.N.G
-The first version or H.A.R.I.N.G (Humanless Audio Recombinator for Infinite Novelty Generation), an especially designed software created by Andrea Vogrig and Darien Brito, commissioned by Francisco Lopez.
+HARING was commissioned by iii (instrumentinventors.org) as part of the project audio-DH (audiodh.nl), a project directed by Francisco Lopez.
+
+HARING was designed by Francisco Lopez together with Andrea Vogrig and Darien Brito and programmed in SuperCollider by Andrea Vogrig and Darien Brito. 
+
 ### Download
 ##### OSX:
 Compiled releases are available from the [github release page](https://github.com/projectHARING/Haring_1.0/releases). 
