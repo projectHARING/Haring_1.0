@@ -1,5 +1,5 @@
 # H.A.R.I.N.G
-HARING was commissioned by iii [instrumentinventors.org](http://iiinitiative.org) as part of the project [audio-DH](audiodh.nl), a project directed by Francisco Lopez.
+HARING was commissioned by iii [instrumentinventors.org](http://iiinitiative.org) as part of the project [audio-DH](http://audiodh.nl/?password-protected=login&redirect_to=http%3A%2F%2Faudiodh.nl%2F), a project directed by Francisco Lopez.
 
 HARING was designed by Francisco Lopez together with Andrea Vogrig and Darien Brito and programmed in SuperCollider by Andrea Vogrig and Darien Brito. 
 
